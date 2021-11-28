@@ -4,7 +4,7 @@ Meet the amazing folks who helped Kaggle Days Meetup Delhi NCR grow
 | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Name                 | Know how they helped the community grow                                                                                                              |
 | Ayon Roy             | Still figuring out...........                                                                                                    |
-| Vaibhav Chawla       | To be Updated soon...........                                                                                                    |
+| Vaibhav Chawla       | [https://www.linkedin.com/feed/update/urn:li:activity:6870602926558208000](https://www.linkedin.com/feed/update/urn:li:activity:6870602926558208000)|
 | Ritesh Yadav         | [https://www.linkedin.com/feed/update/urn:li:activity:6784355996493082624](https://www.linkedin.com/feed/update/urn:li:activity:6784355996493082624)|
 |                      |                                                                                                                                                      |
 | Ex-Team Members      |                                                                                                                                                      |

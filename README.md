@@ -35,5 +35,5 @@ Meet the amazing folks who helped Kaggle Days Meetup Delhi NCR grow
 | Deep Patel           | [https://www.linkedin.com/feed/update/urn:li:activity:6813316357124435968](https://www.linkedin.com/feed/update/urn:li:activity:6813316357124435968) |
 | Shailza Singh        | [https://www.linkedin.com/feed/update/urn:li:activity:6812952801837248512](https://www.linkedin.com/feed/update/urn:li:activity:6812952801837248512) |
 | Roshni Singh         | To be updated soon......
-| Vani Singhal         | To be updated soon......
+| Vani Singhal         | [https://www.linkedin.com/feed/update/urn:li:activity:6873958776786026496](https://www.linkedin.com/feed/update/urn:li:activity:6873958776786026496)
 | Aman Jain            | [https://www.linkedin.com/feed/update/urn:li:activity:6868417223103520768](https://www.linkedin.com/feed/update/urn:li:activity:6868417223103520768)

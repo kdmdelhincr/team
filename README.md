@@ -6,8 +6,8 @@ Meet the amazing folks who helped Kaggle Days Meetup Delhi NCR grow
 | Ayon Roy             | Still figuring out...........                                                                                                    |
 | Vaibhav Chawla       | [https://www.linkedin.com/feed/update/urn:li:activity:6870602926558208000](https://www.linkedin.com/feed/update/urn:li:activity:6870602926558208000)|
 | Ritesh Yadav         | [https://www.linkedin.com/feed/update/urn:li:activity:6784355996493082624](https://www.linkedin.com/feed/update/urn:li:activity:6784355996493082624)|
-|                      |                                                                                                                                                      |
-| Ex-Team Members      |                                                                                                                                                      |
+|                      |                                                                                                                                                      
+| **Ex-Team Members**    |                                                                                                                                                      |
 | Name                 | Know how they helped the community grow                                                                                                              |
 | Arshpreet Singh      | [https://www.linkedin.com/feed/update/urn:li:activity:6781247548008099840](https://www.linkedin.com/feed/update/urn:li:activity:6781247548008099840) |
 | Mohini Vaish         | [https://www.linkedin.com/feed/update/urn:li:activity:6772525597919993856](https://www.linkedin.com/feed/update/urn:li:activity:6772525597919993856) |
@@ -34,6 +34,6 @@ Meet the amazing folks who helped Kaggle Days Meetup Delhi NCR grow
 | Sakshi Vij           | [https://www.linkedin.com/feed/update/urn:li:activity:6813697098530222080](https://www.linkedin.com/feed/update/urn:li:activity:6813697098530222080) |
 | Deep Patel           | [https://www.linkedin.com/feed/update/urn:li:activity:6813316357124435968](https://www.linkedin.com/feed/update/urn:li:activity:6813316357124435968) |
 | Shailza Singh        | [https://www.linkedin.com/feed/update/urn:li:activity:6812952801837248512](https://www.linkedin.com/feed/update/urn:li:activity:6812952801837248512) |
-| Roshni Singh         | To be updated soon......
+| Roshni Singh         | [https://www.linkedin.com/feed/update/urn:li:activity:6877491060520574976](https://www.linkedin.com/feed/update/urn:li:activity:6877491060520574976)
 | Vani Singhal         | [https://www.linkedin.com/feed/update/urn:li:activity:6873958776786026496](https://www.linkedin.com/feed/update/urn:li:activity:6873958776786026496)
 | Aman Jain            | [https://www.linkedin.com/feed/update/urn:li:activity:6868417223103520768](https://www.linkedin.com/feed/update/urn:li:activity:6868417223103520768)

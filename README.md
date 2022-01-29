@@ -4,15 +4,14 @@ Meet the amazing folks who helped Kaggle Days Meetup Delhi NCR grow
 | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Name                 | Know how they helped the community grow                                                                                                              |
 | Ayon Roy             | Still figuring out...........                                                                                                    |
-| Vaibhav Chawla       | [https://www.linkedin.com/feed/update/urn:li:activity:6870602926558208000](https://www.linkedin.com/feed/update/urn:li:activity:6870602926558208000)|
-| Ritesh Yadav         | [https://www.linkedin.com/feed/update/urn:li:activity:6784355996493082624](https://www.linkedin.com/feed/update/urn:li:activity:6784355996493082624)|
 |                      |                                                                                                                                                      
-| **Ex-Team Members**    |                                                                                                                                                      |
+| **Ex-Team Members**    |   Total Count - 30  ( 13 Female, 17 Male )                                                                                                                                            |
 | Name                 | Know how they helped the community grow                                                                                                              |
 | Arshpreet Singh      | [https://www.linkedin.com/feed/update/urn:li:activity:6781247548008099840](https://www.linkedin.com/feed/update/urn:li:activity:6781247548008099840) |
 | Mohini Vaish         | [https://www.linkedin.com/feed/update/urn:li:activity:6772525597919993856](https://www.linkedin.com/feed/update/urn:li:activity:6772525597919993856) |
 | Arshita Bhatt        | [https://www.linkedin.com/feed/update/urn:li:activity:6773265242760781824](https://www.linkedin.com/feed/update/urn:li:activity:6773265242760781824) |
 | Antaripa Saha        | [https://www.linkedin.com/feed/update/urn:li:activity:6773616775813853184](https://www.linkedin.com/feed/update/urn:li:activity:6773616775813853184) |
+| Ritesh Yadav         | [https://www.linkedin.com/feed/update/urn:li:activity:6784355996493082624](https://www.linkedin.com/feed/update/urn:li:activity:6784355996493082624)|
 | Soma Dass            | [https://www.linkedin.com/feed/update/urn:li:activity:6773972907854053376](https://www.linkedin.com/feed/update/urn:li:activity:6773972907854053376) |
 | Somya Maheshwari     | [https://www.linkedin.com/feed/update/urn:li:activity:6774347812093214720](https://www.linkedin.com/feed/update/urn:li:activity:6774347812093214720) |
 | Shambhavi Mishra     | [https://www.linkedin.com/feed/update/urn:li:activity:6776882173803945984](https://www.linkedin.com/feed/update/urn:li:activity:6776882173803945984) |
@@ -35,5 +34,6 @@ Meet the amazing folks who helped Kaggle Days Meetup Delhi NCR grow
 | Deep Patel           | [https://www.linkedin.com/feed/update/urn:li:activity:6813316357124435968](https://www.linkedin.com/feed/update/urn:li:activity:6813316357124435968) |
 | Shailza Singh        | [https://www.linkedin.com/feed/update/urn:li:activity:6812952801837248512](https://www.linkedin.com/feed/update/urn:li:activity:6812952801837248512) |
 | Roshni Singh         | [https://www.linkedin.com/feed/update/urn:li:activity:6877491060520574976](https://www.linkedin.com/feed/update/urn:li:activity:6877491060520574976)
+| Vaibhav Chawla       | [https://www.linkedin.com/feed/update/urn:li:activity:6870602926558208000](https://www.linkedin.com/feed/update/urn:li:activity:6870602926558208000)|
 | Vani Singhal         | [https://www.linkedin.com/feed/update/urn:li:activity:6873958776786026496](https://www.linkedin.com/feed/update/urn:li:activity:6873958776786026496)
 | Aman Jain            | [https://www.linkedin.com/feed/update/urn:li:activity:6868417223103520768](https://www.linkedin.com/feed/update/urn:li:activity:6868417223103520768)
